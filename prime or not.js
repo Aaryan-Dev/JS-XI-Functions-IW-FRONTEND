@@ -1,4 +1,6 @@
-// Problem 1: Create a function to check if a number is Prime or Notfunction givenum(num){
+// Problem 1: Create a function to check if a number is Prime or Not
+
+function givenum(num){
 
 for(i=1; i<=num ; i++) {
 
